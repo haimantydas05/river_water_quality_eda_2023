@@ -1,5 +1,5 @@
 
-INDIA RIVER WATER QUALITY — EDA & GEOSPATIAL ANALYSIS (2023)
+INDIA RIVER WATER QUALITY — EDSA & GEOSPATIAL ANALYSIS (2023)
 ================================================================
 
 An end-to-end Exploratory Data Analysis (EDA) of India's river
